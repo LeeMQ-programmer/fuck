@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>로그인.jsp입니다</h1>
-<h1>킴성태ㅐ</h1>
+<h1>황성태 GitHub 실습입니다.</h1>
 </body>
 </html>
